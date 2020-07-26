@@ -1,2 +1,0 @@
-# IndiaCOVID
-India COVID Analysis
